@@ -17,7 +17,7 @@ Olá, meu nome é **Renan Oliveira**, um **Estudante de desenvolcimento de softw
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Talking about Personal Stuffs:**
+**Um pouco sobre mim:**
 
 - 👨🏽‍💻 Atualmente eu estudo **desenvolvimento de software** na _[Trybe](https://www.betrybe.com/)_;
 - 🌱 No momento estou me dedicando muito a aprender React; 
@@ -28,7 +28,7 @@ Olá, meu nome é **Renan Oliveira**, um **Estudante de desenvolcimento de softw
 - 📝 Veja o meu [Currículo]() para saber mais.
 
 
-**Languages and Tools:**  
+**Linguagens e tecnologias:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
