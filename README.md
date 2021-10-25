@@ -13,14 +13,14 @@
 <br />
 <br />
 
-Olá, meu nome é **Renan Oliveira**, **Desenvolvedor Front-End** 🚀 no Brasil. 
+Olá, meu nome é **Renan Oliveira**, **Desenvolvedor Full Stack** 🚀 no Brasil. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Um pouco sobre mim:**
 
-- 👨🏽‍💻 Atualmente eu estudo **desenvolvimento de software** na _[Trybe](https://www.betrybe.com/)_;
-- 🌱 No momento estou me dedicando muito a aprender mais sobre a stack __MERN__ (MongoDB, Express, React.js, Node.js);
+- 👨🏽‍💻 Atualmente eu estudo **desenvolvimento de software** na _[Trybe](https://www.betrybe.com/)_. Me formei como desenvolvedor Front e Back-End e hoje estou estudando Python. Também faço Engenharia de Software.
+- 🌱 No momento estou me dedicando muito a aprender mais sobre a stack __MERN__ (MongoDB, Express, React.js, Node.js) e também sobre Python;
 - 💻 As tecnologias que mais estou trabalhando hoje são: Next.js e Wordpress;
 - 🎮 Gosto de tecnologia, de games, música e de ler..;
 - 💼 Trabalho na Apiki, uma das empresas referência em Wordpress na América Latina;
@@ -31,9 +31,9 @@ Olá, meu nome é **Renan Oliveira**, **Desenvolvedor Front-End** 🚀 no Brasil
 
 **Linguagens e tecnologias:**  
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://github.com/detain/svg-logos/blob/master/svg/javascript-1.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
