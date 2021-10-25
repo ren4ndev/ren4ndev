@@ -31,21 +31,22 @@ Olá, meu nome é **Renan Oliveira**, **Desenvolvedor Full Stack** 🚀 no Brasi
 
 **Linguagens e tecnologias:**  
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://github.com/detain/svg-logos/blob/master/svg/javascript-1.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
-  <img src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mongo" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="mongo" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" height="40"/> 
+  <img src="https://github.com/detain/svg-logos/blob/master/svg/javascript-1.svg" alt="javascript" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="40"/> 
+  <img src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg" alt="redux" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mongo" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="mongo" height="40"/>
+  <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/cypress.svg" alt="mongo" height="40"/>
 </p>
 
 <p>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> 
 </p>>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ren4ndev&theme=tokyonight)
