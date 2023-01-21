@@ -19,18 +19,19 @@ Olá, meu nome é **Renan Oliveira**, **Desenvolvedor Full Stack** 🚀 no Brasi
 
 **Um pouco sobre mim:**
 
-- 👨🏽‍💻 Atualmente eu estudo **desenvolvimento de software** na _[Trybe](https://www.betrybe.com/)_. Me formei como desenvolvedor Front e Back-End e hoje estou estudando Python. Também faço Engenharia de Software.
-- 🌱 No momento estou me dedicando muito a aprender mais sobre a stack __MERN__ (MongoDB, Express, React.js, Node.js) e também sobre Python;
-- 💻 As tecnologias que mais estou trabalhando hoje são: Next.js e Wordpress;
+- 👨🏽‍💻 Sou formado em **Desenvolvimento Web FullStack** na _[Trybe](https://www.betrybe.com/)_. 
+- 🌱 No momento estou me dedicando a aprender mais ainda sobre Python e a stack __MERN__ (MongoDB, Express, React.js, Node.js);
+- 💻 As tecnologias que tenho mais experiência são: Python, Javascript, Node, React.js, Next.js, React Native, SQL, MongoDB e algumas outras;
 - 🎮 Gosto de tecnologia, de games, música e de ler..;
-- 💼 Trabalho na Apiki, uma das empresas referência em Wordpress na América Latina;
+- 💼 Tenho mais de 2 anos de experiência como desenvolvedor e no momento estou procurando por um novo desafio;
 - 💬 Fique à vontade para entrar em contato comigo sempre que quiser;
 - 📫 Você pode mandar um email para _oliveira.renan.rg@gmail.com_ para falar comigo.
-- 📝 Veja o meu [Currículo]() para saber mais.
+- 📝 Veja o meu [Currículo](https://drive.google.com/file/d/1KLCLu2kNisx35NxUE_Vks8oACl8NjGrX/view?usp=share_link) para saber mais.
 
 
 **Linguagens e tecnologias:**  
 <p align="left">
+  <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="html5" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" height="40"/> 
   <img src="https://github.com/detain/svg-logos/blob/master/svg/javascript-1.svg" alt="javascript" height="40"/> 
