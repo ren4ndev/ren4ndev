@@ -26,7 +26,7 @@ Olá, meu nome é **Renan Oliveira**, **Desenvolvedor Full Stack** 🚀 no Brasi
 - 💼 Tenho mais de 2 anos de experiência como desenvolvedor e no momento estou procurando por um novo desafio;
 - 💬 Fique à vontade para entrar em contato comigo sempre que quiser;
 - 📫 Você pode mandar um email para _oliveira.renan.rg@gmail.com_ para falar comigo.
-- 📝 Veja o meu [Currículo](https://drive.google.com/file/d/1KLCLu2kNisx35NxUE_Vks8oACl8NjGrX/view?usp=share_link) para saber mais.
+- 📝 Veja o meu [Currículo]([https://drive.google.com/file/d/1KLCLu2kNisx35NxUE_Vks8oACl8NjGrX/view?usp=share_link](https://drive.google.com/file/d/1sjQV5-ILZBwgfafzhAMb8XcKpmSdx7t8/view?usp=share_link)) para saber mais.
 
 
 **Linguagens e tecnologias:**  
